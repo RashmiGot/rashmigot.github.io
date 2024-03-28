@@ -26,6 +26,7 @@ p {
 .topnav {
   background-color: #ffffff;
   overflow: hidden;
+  position: fixed;
 }
 
 /* Style the links inside the navigation bar */
