@@ -1,9 +1,13 @@
 body {
-  background-color: powderblue;
+  background-color: rgb(232, 187, 167);
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 h1 {
-  color: blue;
+  color: rgb(112, 28, 28);
 }
 p {
-  color: red;
+  color: rgb(0, 0, 0);
 }
