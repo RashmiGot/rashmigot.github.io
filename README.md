@@ -1,1 +1,3 @@
-This is a personal webpage to describe my research interests 
+### rashmigot.github.io
+
+A personal webpage that describe my research interests
