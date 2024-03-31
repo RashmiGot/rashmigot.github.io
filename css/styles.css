@@ -33,7 +33,7 @@ h3 {
 p {
   color: rgb(0, 0, 0);
   font-size: 18px;
-  font-weight: bolder;
+  font-weight: normal;
 }
 
 /* Top navigation bar */
@@ -112,7 +112,7 @@ ul.posts li {
 /* define avatar class for image alignment */
 .avatar {
   vertical-align: middle;
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
